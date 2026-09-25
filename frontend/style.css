@@ -10,7 +10,7 @@
     #fff8dc 0%,
     #ffe082 15%,
     #ffd700 35%,
-    #d4af37 55%,
+    #96750a 55%,
     #b8860b 75%,
     #fff8dc 100%
   );
@@ -544,15 +544,15 @@ body {
 
 /* ─── CATEGORY CHIPS ─── */
 .category-section {
-  padding: 32px;
+  padding: 100px;
 }
 
 .section-title {
   font-family: 'Playfair Display', serif;
   font-size: 1.4rem;
-  font-weight: 750;
+  font-weight: 700;
   color: var(--cream);
-  margin-bottom: 20px;
+  margin-bottom: 200px;
 }
 
 .section-title span {
